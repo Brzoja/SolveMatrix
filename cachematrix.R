@@ -1,4 +1,4 @@
-## This first function, makeCacheMatix creates a special matrix, which is really a list containing a function to 
+## This first function, makeCacheMatix creates a special matrix, which is acutally a list containing a function to 
 ## set the value of the matrix, get the value of the matrix, set the value of the inverse of the matrix and 
 ## get the value of the inverse of the matrix
 
